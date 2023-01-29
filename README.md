@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @amolmane94
-- 👀 I’m interested in developer  
-- 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on GITHUB
+- 👀 I’m interested in Devops 
+- 🌱 Experience in AWS Cloud.
 - 📫 How to reach me ...
 
 <!---
